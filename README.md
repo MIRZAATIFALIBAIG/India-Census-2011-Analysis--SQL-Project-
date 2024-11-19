@@ -12,7 +12,7 @@
 
 ## Project Overview
 
-**Project Title**:  
+**Project Title**:  India Census Analysis
 **Level**: Advanced.
 
 **Database**: `india cenus 2011`
